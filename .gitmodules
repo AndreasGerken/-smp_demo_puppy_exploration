@@ -1,0 +1,9 @@
+[submodule "smp_control"]
+	path = smp_control
+	url = ../smp_control/
+[submodule "demoPuppy"]
+	path = demoPuppy
+	url = ../demoPuppy/
+[submodule "torqueControlledPendulum"]
+	path = torqueControlledPendulum
+	url = ../torqueControlledPendulum/
